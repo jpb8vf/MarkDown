@@ -9,3 +9,10 @@
 ###### Quote break.
 
 >blockquotes
+
+* red
+* green
+* blue 
+* orange
+* purple
+* yellow
