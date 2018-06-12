@@ -6,5 +6,5 @@
 
 >this is 
 >my example of
-Quote break>
+Quote break.
 >blockquotes
