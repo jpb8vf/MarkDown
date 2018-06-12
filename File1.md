@@ -16,14 +16,14 @@
 * orange
 * purple
 * yellow
-
+-------
 1. red
 2. green
 3. blue
 4. orange
 5. purple
 6. yellow
-
+---------
 | example        | of           | table  |
 | -------------- |:------------:| ------:|
 | 111111111      | 111111111111 | 111111 |
